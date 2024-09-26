@@ -9,7 +9,3 @@ Proyecto final en el que a partir de un repositorio se van a realizar una serie 
 ## Autores
 
 Propiedad de Mastermind, S.L. (http://www.mastermind.ac)
-
-## Autor secundario
-
-Este proyecto has sido modificado por Angel Barrajon Franco (http://angelbfranco.com)
